@@ -6,6 +6,6 @@ Some text
 
 What tutorial
 
-## Local devemopment
+## Local development
 
 1. Open index.html in you browser.
